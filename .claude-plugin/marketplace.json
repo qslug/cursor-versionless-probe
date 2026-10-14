@@ -1,0 +1,8 @@
+{
+  "name": "vprobe",
+  "description": "Disposable probe marketplace.",
+  "owner": { "name": "probe" },
+  "plugins": [
+    { "name": "vprobe", "source": "./", "version": "0.1.0" }
+  ]
+}

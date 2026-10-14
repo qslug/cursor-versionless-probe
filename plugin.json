@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "vprobe",
+  "version": "0.1.0",
+  "description": "Disposable probe for Cursor versionless plugin updates.",
+  "author": { "name": "probe" },
+  "repository": "https://github.com/qslug/cursor-versionless-probe"
+}
